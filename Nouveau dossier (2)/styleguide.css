@@ -1,0 +1,97 @@
+:root { 
+  --alto: #d9d9d9;
+  --big-stone-22: #0f284059;
+  --big-stone-3: #0e283f;
+  --big-stone2: #0f2840;
+  --black: #000000;
+  --coconut: #fbfdff;
+  --fuel-yellow: #f2ae30;
+  --gray: #a08f8f;
+  --green: #04ca00;
+  --grenadier: #ca4900;
+  --quill-gray: #d6d0d0;
+  --romance: #fffcfc;
+  --romance-2: #fffdfd;
+  --rose-white: #fff6f6;
+  --science-blue: #0067ca;
+  --silver: #cfc8c8;
+  --teal-blue: #024959;
+  --white: #ffffff;
+ 
+  --font-size-l2: 16px;
+  --font-size-xl2: 20px;
+  --font-size-xxxl: 32px;
+ 
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-bold-coconut-20px {
+  color: var(--coconut);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-light-gray-20px {
+  color: var(--gray);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-normal-romance-16px {
+  color: var(--romance);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-silver-16px {
+  color: var(--silver);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-white-16px-2 {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-romance-20px {
+  color: var(--romance);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl2);
+  font-style: normal;
+  font-weight: 700;
+}

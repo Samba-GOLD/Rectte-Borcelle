@@ -1,0 +1,1262 @@
+/* screen - home-page */
+
+.home-page {
+  align-items: flex-start;
+  background-color: var(--big-stone-3);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 3090px;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.home-page .component-4 {
+  align-items: flex-end;
+  display: flex;
+  height: 234px;
+  left: 0;
+  min-width: 1459px;
+  position: fixed;
+  top: -51px;
+  z-index: 4;
+}
+
+.home-page .overlap-group9 {
+  height: 183px;
+  position: relative;
+  width: 1459px;
+}
+
+.home-page .rectangle-3-1 {
+  background-color: var(--romance);
+  height: 130px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-page .account_circle_fill0 {
+  height: 34px;
+  left: 818px;
+  position: absolute;
+  top: 56px;
+  width: 34px;
+}
+
+.home-page .minimalist_-cooking_ {
+  height: 183px;
+  left: 98px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 212px;
+}
+
+.home-page .a-la-une {
+  left: 467px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 63px;
+  width: 240px;
+}
+
+.home-page .tutos {
+  left: 644px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  width: 240px;
+}
+
+.home-page .mon-space {
+  left: 861px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 62px;
+  width: 240px;
+}
+
+.home-page .rectangle-5 {
+  background-color: var(--romance);
+  border: 1px solid;
+  border-color: var(--quill-gray);
+  border-radius: 6px;
+  height: 42px;
+  left: 1029px;
+  position: absolute;
+  top: 53px;
+  width: 257px;
+}
+
+.home-page .rectangle-6 {
+  background-color: var(--teal-blue);
+  border-radius: 5px;
+  height: 43px;
+  left: 1170px;
+  position: absolute;
+  top: 52px;
+  width: 169px;
+}
+
+.home-page .icon-user {
+  height: 34px;
+  left: 1034px;
+  position: absolute;
+  top: 55px;
+  width: 34px;
+}
+
+.home-page .person_add_fill0_wght400_grad0_opsz48-1 {
+  height: 35px;
+  left: 1179px;
+  position: absolute;
+  top: 57px;
+  width: 35px;
+}
+
+.home-page .connexion {
+  left: 1068px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  width: 240px;
+}
+
+.home-page .crer-un-compte {
+  left: 1219px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 65px;
+  width: 240px;
+}
+
+.home-page .overlap-group11 {
+  height: 702px;
+  margin-top: 130px;
+  position: relative;
+  width: 1440px;
+  z-index: 1;
+}
+
+.home-page .rectangle-4 {
+  background-color: var(--fuel-yellow);
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-page .rectangle-7 {
+  background-color: var(--romance-2);
+  border-radius: 5px;
+  height: 57px;
+  left: 102px;
+  position: absolute;
+  top: 10px;
+  width: 844px;
+}
+
+.home-page .tapez-ici-pour-rechercher {
+  left: 155px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 29px;
+  width: 240px;
+}
+
+.home-page .rectangle-8 {
+  background-color: var(--alto);
+  height: 56px;
+  left: 876px;
+  position: absolute;
+  top: 11px;
+  width: 2px;
+}
+
+.home-page .magnifying-glass-solid-1 {
+  height: 24px;
+  left: 896px;
+  position: absolute;
+  top: 27px;
+  width: 24px;
+}
+
+.home-page .ellipse-1 {
+  background-color: var(--science-blue);
+  left: 1076px;
+}
+
+.home-page .ellipse-3 {
+  background-color: var(--green);
+  left: 1216px;
+}
+
+.home-page .square-whatsapp-1 {
+  height: 27px;
+  left: 1223px;
+  position: absolute;
+  top: 25px;
+  width: 24px;
+}
+
+.home-page .ellipse-2 {
+  background-color: var(--grenadier);
+  left: 1147px;
+}
+
+.home-page .icon-facebook {
+  height: 25px;
+  left: 1083px;
+  position: absolute;
+  top: 27px;
+  width: 26px;
+}
+
+.home-page .icon-instagram {
+  height: 29px;
+  left: 1154px;
+  position: absolute;
+  top: 25px;
+  width: 25px;
+}
+
+.home-page .rectangle-9 {
+  height: 428px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 80px;
+  width: 1440px;
+}
+
+.home-page .icon-play-1 {
+  height: 121px;
+  left: 659px;
+  position: absolute;
+  top: 234px;
+  width: 121px;
+}
+
+.home-page .rectangle-11 {
+  height: 247px;
+  left: 584px;
+  object-fit: cover;
+  position: absolute;
+  top: 451px;
+  width: 272px;
+}
+
+.home-page .rectangle-32 {
+  background-color: var(--big-stone-22);
+  height: 247px;
+  left: 876px;
+  position: absolute;
+  top: 451px;
+  width: 272px;
+}
+
+.home-page .rectangle-31 {
+  background-color: var(--big-stone-22);
+  height: 247px;
+  left: 292px;
+  position: absolute;
+  top: 451px;
+  width: 272px;
+}
+
+.home-page .group-1 {
+  align-items: flex-start;
+  display: flex;
+  gap: 20px;
+  height: 251px;
+  left: 292px;
+  min-width: 862px;
+  position: absolute;
+  top: 451px;
+}
+
+.home-page .overlap-group {
+  height: 251px;
+  position: relative;
+  width: 272px;
+}
+
+.home-page .rectangle-1 {
+  height: 247px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.home-page .souffl-normand {
+  left: 7px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 148px;
+  width: 258px;
+}
+
+.home-page .component-1 {
+  height: 17px;
+  left: 7px;
+  position: absolute;
+  top: 172px;
+  width: 125px;
+}
+
+.home-page .icon-star-2 {
+  height: 20px;
+  left: 114px;
+  position: absolute;
+  top: 172px;
+  width: 22px;
+}
+
+.home-page .icon-play-2 {
+  height: 60px;
+  left: 102px;
+  position: absolute;
+  top: 64px;
+  width: 60px;
+}
+
+.home-page .rectangle-30 {
+  background-color: var(--big-stone-22);
+  height: 247px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 272px;
+}
+
+.home-page .component-1-1 {
+  height: 17px;
+  left: 75px;
+  position: absolute;
+  top: 200px;
+  width: 125px;
+}
+
+.home-page .coulant-aux-chocolat {
+  left: 13px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 148px;
+  width: 258px;
+}
+
+.home-page .workspace_premium_fi {
+  height: 35px;
+  left: 8px;
+  position: absolute;
+  top: 0;
+  width: 35px;
+}
+
+.home-page .icon-play-3 {
+  height: 60px;
+  left: 102px;
+  position: absolute;
+  top: 70px;
+  width: 60px;
+}
+
+.home-page .tarte-aux-pommes {
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 148px;
+  width: 258px;
+}
+
+.home-page .component-2 {
+  height: 17px;
+  left: 14px;
+  position: absolute;
+  top: 172px;
+  width: 125px;
+}
+
+.home-page .icon-star-3 {
+  height: 20px;
+  left: 121px;
+  position: absolute;
+  top: 171px;
+  width: 22px;
+}
+
+.home-page .icon-star-4 {
+  height: 20px;
+  left: 92px;
+  position: absolute;
+  top: 172px;
+  width: 22px;
+}
+
+.home-page .icon-play-4 {
+  height: 60px;
+  left: 110px;
+  position: absolute;
+  top: 75px;
+  width: 60px;
+}
+
+.home-page .overlap-group10 {
+  align-self: center;
+  height: 1645px;
+  margin-top: 92px;
+  position: relative;
+  width: 1162px;
+  z-index: 2;
+}
+
+.home-page .rectangle-13 {
+  background-color: var(--alto);
+  box-shadow: inset 0px 4px 4px #00000040;
+  height: 1630px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 1158px;
+}
+
+.home-page .rectangle-1-1 {
+  height: 382px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 276px;
+}
+
+.home-page .rectangle-18 {
+  height: 382px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 276px;
+}
+
+.home-page .rectangle-22 {
+  height: 382px;
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 832px;
+  width: 276px;
+}
+
+.home-page .rectangle-26 {
+  background-color: var(--big-stone2);
+  height: 382px;
+  left: 2px;
+  position: absolute;
+  top: 1248px;
+  width: 276px;
+}
+
+.home-page .rectangle-15 {
+  height: 382px;
+  left: 296px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 276px;
+}
+
+.home-page .rectangle-19 {
+  height: 382px;
+  left: 296px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 276px;
+}
+
+.home-page .rectangle-23 {
+  height: 382px;
+  left: 296px;
+  object-fit: cover;
+  position: absolute;
+  top: 832px;
+  width: 276px;
+}
+
+.home-page .rectangle-27 {
+  background-color: var(--big-stone2);
+  height: 382px;
+  left: 296px;
+  position: absolute;
+  top: 1248px;
+  width: 276px;
+}
+
+.home-page .rectangle-20 {
+  height: 382px;
+  left: 590px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 276px;
+}
+
+.home-page .rectangle-24 {
+  height: 382px;
+  left: 590px;
+  object-fit: cover;
+  position: absolute;
+  top: 832px;
+  width: 276px;
+}
+
+.home-page .rectangle-28 {
+  background-color: var(--big-stone2);
+  height: 382px;
+  left: 590px;
+  position: absolute;
+  top: 1248px;
+  width: 276px;
+}
+
+.home-page .rectangle-17 {
+  height: 382px;
+  left: 884px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 276px;
+}
+
+.home-page .rectangle-21 {
+  height: 382px;
+  left: 884px;
+  object-fit: cover;
+  position: absolute;
+  top: 416px;
+  width: 276px;
+}
+
+.home-page .rectangle-25 {
+  height: 382px;
+  left: 884px;
+  object-fit: cover;
+  position: absolute;
+  top: 832px;
+  width: 276px;
+}
+
+.home-page .rectangle-29 {
+  background-color: var(--big-stone2);
+  height: 382px;
+  left: 884px;
+  position: absolute;
+  top: 1248px;
+  width: 276px;
+}
+
+.home-page .rectangle-3 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 278px;
+}
+
+.home-page .rectangle-34 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 294px;
+  position: absolute;
+  top: 0;
+  width: 278px;
+}
+
+.home-page .rectangle-36 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 884px;
+  position: absolute;
+  top: 0;
+  width: 278px;
+}
+
+.home-page .souffl-normand-1 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 291px;
+  width: 258px;
+}
+
+.home-page .salade-carottes-rpes {
+  left: 326px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 291px;
+  width: 258px;
+}
+
+.home-page .salade-de-champignons-crus {
+  left: 899px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 291px;
+  width: 258px;
+}
+
+.home-page .component-3 {
+  height: 17px;
+  left: 11px;
+  position: absolute;
+  top: 315px;
+  width: 125px;
+}
+
+.home-page .component-5 {
+  height: 17px;
+  left: 326px;
+  position: absolute;
+  top: 318px;
+  width: 125px;
+}
+
+.home-page .icon-star-5 {
+  height: 17px;
+  left: 117px;
+  position: absolute;
+  top: 315px;
+  width: 19px;
+}
+
+.home-page .icon-star-6 {
+  height: 17px;
+  left: 379px;
+  position: absolute;
+  top: 318px;
+  width: 19px;
+}
+
+.home-page .icon-star-7 {
+  height: 17px;
+  left: 404px;
+  position: absolute;
+  top: 318px;
+  width: 17px;
+}
+
+.home-page .icon-star-8 {
+  height: 17px;
+  left: 427px;
+  position: absolute;
+  top: 318px;
+  width: 17px;
+}
+
+.home-page .icon-play-5 {
+  height: 60px;
+  left: 109px;
+  position: absolute;
+  top: 161px;
+  width: 60px;
+}
+
+.home-page .icon-play-6 {
+  height: 60px;
+  left: 399px;
+  position: absolute;
+  top: 166px;
+  width: 60px;
+}
+
+.home-page .icon-play-7 {
+  height: 60px;
+  left: 993px;
+  position: absolute;
+  top: 176px;
+  width: 60px;
+}
+
+.home-page .icon-star-9 {
+  height: 20px;
+  left: 1002px;
+  position: absolute;
+  top: 341px;
+  width: 22px;
+}
+
+.home-page .component-13 {
+  align-items: flex-start;
+  display: flex;
+  height: 397px;
+  left: 588px;
+  min-width: 278px;
+  position: absolute;
+  top: 0;
+}
+
+.home-page .overlap-group-1 {
+  height: 396px;
+  position: relative;
+  width: 278px;
+}
+
+.home-page .gratin-dauphinois-p {
+  left: 17px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 291px;
+  width: 258px;
+}
+
+.home-page .icon-play {
+  height: 60px;
+  left: 109px;
+  position: absolute;
+  top: 171px;
+  width: 60px;
+}
+
+.home-page .component-6 {
+  height: 17px;
+  left: 17px;
+  position: absolute;
+  top: 341px;
+  width: 125px;
+}
+
+.home-page .icon-star {
+  height: 20px;
+  left: 124px;
+  position: absolute;
+  top: 340px;
+  width: 22px;
+}
+
+.home-page .icon-star-1 {
+  height: 20px;
+  left: 95px;
+  position: absolute;
+  top: 341px;
+  width: 22px;
+}
+
+.home-page .workspace_premium_fi-1 {
+  left: 896px;
+  top: 0;
+}
+
+.home-page .component-7 {
+  height: 17px;
+  left: 898px;
+  position: absolute;
+  top: 343px;
+  width: 125px;
+}
+
+.home-page .rectangle-53 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 3px;
+  position: absolute;
+  top: 416px;
+  width: 275px;
+}
+
+.home-page .rectangle-54 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 296px;
+  position: absolute;
+  top: 416px;
+  width: 275px;
+}
+
+.home-page .rectangle-57 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 296px;
+  position: absolute;
+  top: 832px;
+  width: 277px;
+}
+
+.home-page .rectangle-58 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 1px;
+  position: absolute;
+  top: 832px;
+  width: 277px;
+}
+
+.home-page .rectangle-59 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 591px;
+  position: absolute;
+  top: 832px;
+  width: 277px;
+}
+
+.home-page .rectangle-60 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 883px;
+  position: absolute;
+  top: 832px;
+  width: 277px;
+}
+
+.home-page .icon-star-10 {
+  height: 20px;
+  left: 389px;
+  position: absolute;
+  top: 711px;
+  width: 22px;
+}
+
+.home-page .rectangle-55 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 591px;
+  position: absolute;
+  top: 416px;
+  width: 275px;
+}
+
+.home-page .rectangle-56 {
+  background-color: var(--big-stone-22);
+  height: 382px;
+  left: 885px;
+  position: absolute;
+  top: 416px;
+  width: 275px;
+}
+
+.home-page .icon-star-11 {
+  height: 20px;
+  left: 986px;
+  position: absolute;
+  top: 713px;
+  width: 22px;
+}
+
+.home-page .component-11 {
+  height: 17px;
+  left: 904px;
+  position: absolute;
+  top: 714px;
+  width: 125px;
+}
+
+.home-page .icon-play-8 {
+  height: 60px;
+  left: 109px;
+  position: absolute;
+  top: 563px;
+  width: 60px;
+}
+
+.home-page .icon-play-9 {
+  height: 60px;
+  left: 119px;
+  position: absolute;
+  top: 982px;
+  width: 60px;
+}
+
+.home-page .icon-play-10 {
+  height: 60px;
+  left: 400px;
+  position: absolute;
+  top: 982px;
+  width: 60px;
+}
+
+.home-page .icon-play-11 {
+  height: 60px;
+  left: 702px;
+  position: absolute;
+  top: 982px;
+  width: 60px;
+}
+
+.home-page .icon-play-12 {
+  height: 60px;
+  left: 985px;
+  position: absolute;
+  top: 982px;
+  width: 60px;
+}
+
+.home-page .icon-play-13 {
+  height: 60px;
+  left: 406px;
+  position: absolute;
+  top: 563px;
+  width: 60px;
+}
+
+.home-page .icon-play-14 {
+  height: 60px;
+  left: 703px;
+  position: absolute;
+  top: 558px;
+  width: 60px;
+}
+
+.home-page .icon-play-15 {
+  height: 60px;
+  left: 990px;
+  position: absolute;
+  top: 551px;
+  width: 60px;
+}
+
+.home-page .asperges-et-pommes-d {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 687px;
+  width: 258px;
+}
+
+.home-page .chocolat-ligeois {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 1081px;
+  width: 258px;
+}
+
+.home-page .pintade-farcie-avec-betty {
+  left: 316px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 1081px;
+  width: 258px;
+}
+
+.home-page .financiers-sals-aux {
+  left: 608px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 1081px;
+  width: 258px;
+}
+
+.home-page .torsades-au-comt-et-graines-de-ssame {
+  left: 896px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 1081px;
+  width: 258px;
+}
+
+.home-page .clafoutis-la-rhubarbe {
+  left: 309px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 687px;
+  width: 258px;
+}
+
+.home-page .tarte-la-rhubarbe {
+  left: 608px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 687px;
+  width: 258px;
+}
+
+.home-page .crpes-mille-trous {
+  left: 903px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 687px;
+  width: 258px;
+}
+
+.home-page .component-9 {
+  height: 17px;
+  left: 308px;
+  position: absolute;
+  top: 712px;
+  width: 125px;
+}
+
+.home-page .component-14 {
+  height: 17px;
+  left: 897px;
+  position: absolute;
+  top: 1137px;
+  width: 125px;
+}
+
+.home-page .component-8 {
+  height: 17px;
+  left: 12px;
+  position: absolute;
+  top: 734px;
+  width: 125px;
+}
+
+.home-page .workspace_premium_fi-2 {
+  left: 600px;
+  top: 416px;
+}
+
+.home-page .component-10 {
+  height: 17px;
+  left: 608px;
+  position: absolute;
+  top: 714px;
+  width: 125px;
+}
+
+.home-page .icon-star-12 {
+  height: 20px;
+  left: 1014px;
+  position: absolute;
+  top: 711px;
+  width: 22px;
+}
+
+.home-page .component-12 {
+  height: 17px;
+  left: 13px;
+  position: absolute;
+  top: 1107px;
+  width: 125px;
+}
+
+.home-page .component-16 {
+  height: 17px;
+  left: 316px;
+  position: absolute;
+  top: 1107px;
+  width: 125px;
+}
+
+.home-page .component-17 {
+  height: 17px;
+  left: 608px;
+  position: absolute;
+  top: 1154px;
+  width: 125px;
+}
+
+.home-page .component-13-1 {
+  left: 0;
+}
+
+.home-page .component-13-2 {
+  left: 294px;
+}
+
+.home-page .component-13-3 {
+  left: 588px;
+}
+
+.home-page .component-13-4 {
+  left: 882px;
+}
+
+.home-page .workspace_premium_fi-3 {
+  left: 891px;
+  top: 1249px;
+}
+
+.home-page .icon-star-13 {
+  height: 20px;
+  left: 976px;
+  position: absolute;
+  top: 1136px;
+  width: 22px;
+}
+
+.home-page .icon-star-14 {
+  height: 20px;
+  left: 1003px;
+  position: absolute;
+  top: 1136px;
+  width: 22px;
+}
+
+.home-page .component-15 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 171px;
+  min-width: 1440px;
+  z-index: 3;
+}
+
+.home-page .overlap-group8 {
+  height: 350px;
+  position: relative;
+  width: 1440px;
+}
+
+.home-page .rectangle-61 {
+  height: 276px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.home-page .rectangle-62 {
+  background-color: var(--rose-white);
+  height: 76px;
+  left: 0;
+  position: absolute;
+  top: 274px;
+  width: 1440px;
+}
+
+.home-page .copyright {
+  left: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 304px;
+  width: 207px;
+}
+
+.home-page .conditions-dutilisations {
+  cursor: pointer;
+  left: 343px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 304px;
+  width: 221px;
+}
+
+.home-page .politique-de-confidentialit {
+  cursor: pointer;
+  left: 649px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 301px;
+  width: 278px;
+}
+
+.home-page .mentions-lgales {
+  cursor: pointer;
+  left: 927px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-decoration: underline;
+  top: 304px;
+  width: 207px;
+}
+
+.home-page .cookies {
+  left: 1226px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 301px;
+  width: 207px;
+}
+
+.home-page .dcouvrez-toutes-les {
+  left: 57px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 4px 4px #00000040;
+  top: 63px;
+}
+
+.home-page .rectangle-6-1 {
+  background-color: var(--teal-blue);
+  border-radius: 5px;
+  height: 43px;
+  left: 653px;
+  position: absolute;
+  top: 167px;
+  width: 169px;
+}
+
+.home-page .dcouvrir {
+  left: 695px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 174px;
+  width: 240px;
+}
+
+.home-page .component-13-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 397px;
+  min-width: 278px;
+  position: absolute;
+  top: 1248px;
+}
+
+.home-page .ellipse {
+  border-radius: 19.5px;
+  height: 39px;
+  position: absolute;
+  top: 20px;
+  width: 39px;
+}
+
+.home-page .workspace_premium_fi-4 {
+  height: 35px;
+  position: absolute;
+  width: 35px;
+}

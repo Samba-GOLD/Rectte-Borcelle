@@ -1,0 +1,178 @@
+/* screen - desktop-3 */
+
+.desktop-3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 1px none;
+  display: flex;
+  overflow: hidden;
+  width: 1440px;
+}
+
+.desktop-3 .overlap-group {
+  height: 1024px;
+  margin-left: -26px;
+  position: relative;
+  width: 1466px;
+}
+
+.desktop-3 .rectangle-72 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #00000040;
+  height: 64px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1466px;
+}
+
+.desktop-3 .image-1 {
+  height: 987px;
+  left: 26px;
+  object-fit: cover;
+  position: absolute;
+  top: 37px;
+  width: 1440px;
+}
+
+.desktop-3 .minimalist_-cooking_ {
+  cursor: pointer;
+  height: 85px;
+  left: 116px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 95px;
+}
+
+.desktop-3 .rectangle-73 {
+  background-color: var(--white);
+  border-radius: 5px;
+  height: 634px;
+  left: 239px;
+  position: absolute;
+  top: 252px;
+  width: 1014px;
+}
+
+.desktop-3 .rectangle-74 {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--shady-lady);
+  border-radius: 5px;
+  height: 68px;
+  left: 266px;
+  position: absolute;
+  top: 308px;
+  width: 790px;
+}
+
+.desktop-3 .rectangle-75 {
+  background-color: var(--white);
+  border: 2px solid;
+  border-color: var(--shady-lady);
+  border-radius: 5px;
+  height: 68px;
+  left: 266px;
+  position: absolute;
+  top: 444px;
+  width: 790px;
+}
+
+.desktop-3 .rectangle-76 {
+  background-color: var(--sorbus);
+  border-radius: 5px;
+  cursor: pointer;
+  height: 68px;
+  left: 266px;
+  position: absolute;
+  top: 747px;
+  width: 790px;
+}
+
+.desktop-3 .votre-adresse-e-mail {
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 280px;
+  white-space: nowrap;
+}
+
+.desktop-3 .crer-un-compte {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  left: 597px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 767px;
+  white-space: nowrap;
+}
+
+.desktop-3 .crer-mot-de-passe {
+  left: 266px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 414px;
+  white-space: nowrap;
+}
+
+.desktop-3 .visibility_off_fill0 {
+  height: 30px;
+  left: 999px;
+  position: absolute;
+  top: 463px;
+  width: 30px;
+}
+
+.desktop-3 .check_box_outline_bl {
+  height: 24px;
+  left: 266px;
+  position: absolute;
+  top: 670px;
+  width: 24px;
+}
+
+.desktop-3 .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  height: 92px;
+  left: 267px;
+  position: absolute;
+  top: 539px;
+  width: 528px;
+}
+
+.desktop-3 .text {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: 528px;
+}
+
+.desktop-3 .text2 {
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: 528px;
+}
+
+.desktop-3 .span-1 {
+  text-decoration: underline;
+}
+
+.desktop-3 .jai-lu-et-jaccepte {
+  left: 299px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 669px;
+  width: 496px;
+}

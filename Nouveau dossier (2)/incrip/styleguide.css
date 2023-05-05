@@ -1,0 +1,34 @@
+:root { 
+  --big-stone: #0f2840;
+  --black: #000000;
+  --shady-lady: #b1a8a8;
+  --sorbus: #fb700b;
+  --white: #ffffff;
+ 
+  --font-size-l2: 16px;
+  --font-size-xl: 20px;
+ 
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-white-16px {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-bold-big-stone-16px {
+  color: var(--big-stone);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l2);
+  font-style: normal;
+  font-weight: 700;
+}

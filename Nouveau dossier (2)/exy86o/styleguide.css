@@ -1,0 +1,108 @@
+:root { 
+  --alto: #d9d9d9;
+  --big-stone: #0f2840;
+  --black: #000000;
+  --eerie-black: #1a1a1a;
+  --gray: #a08f8f;
+  --romance: #fffcfc;
+  --sorbus: #fb700b;
+  --star-dust: #9f9898;
+  --teal-blue: #024959;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 15px;
+  --font-size-s: 14px;
+  --font-size-xl: 20px;
+  --font-size-xxl: 24px;
+  --font-size-xxxl: 32px;
+  --font-size-xxxxl: 48px;
+ 
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.roboto-light-big-stone-15px {
+  color: var(--big-stone);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-bold-big-stone-15px {
+  color: var(--big-stone);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-semi-bold-star-dust-15px {
+  color: var(--star-dust);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-light-gray-20px {
+  color: var(--gray);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-bold-romance-20px {
+  color: var(--romance);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-light-romance-20px {
+  color: var(--romance);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.roboto-bold-eerie-black-20px {
+  color: var(--eerie-black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.roboto-semi-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-semi-bold-white-48px {
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.roboto-bold-white-32px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 700;
+}
